@@ -5,5 +5,5 @@ Este repositorio contiene los datos recolectados por el Instituto nacional de sa
 Con estos datos se han realizado gráficas muy básicas.
 
 Para una mejor visualización online:
-http://nbviewer.ipython.org/github/pyUniversidad/
+http://nbviewer.ipython.org/github/pyDatos/DatosDeSalud
  
